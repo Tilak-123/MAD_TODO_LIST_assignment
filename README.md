@@ -2,10 +2,6 @@
 
 An Android application built in Kotlin that tracks daily step counts using the device's physical step counter sensor, estimates distance walked and calories burned, allows users to set custom step goals, and saves step history for the past 7 days.
 
-## 👤 Developer Info
-- **Developer Name**: Tilak Pandya
-- **Enrollment Number**: 25012012037
-
 ---
 
 ## 📱 Features
@@ -75,3 +71,7 @@ app/src/main/
 ## 📄 License
 
 This project is created for educational and assignment purposes.
+
+## 👤 Developer Info
+- **Developer Name**: Tilak Pandya
+- **Enrollment Number**: 25012012037
