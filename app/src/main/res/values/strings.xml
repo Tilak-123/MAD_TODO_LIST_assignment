@@ -1,0 +1,26 @@
+﻿<resources>
+    <string name="app_name">Step Counter</string>
+
+    <!-- Main Screen -->
+    <string name="today_steps">Today\'s Steps</string>
+    <string name="distance_label">Distance Walked</string>
+    <string name="calories_label">Calories Burned</string>
+    <string name="goal_label">Daily Goal</string>
+    <string name="goal_progress_label">Goal Progress</string>
+    <string name="btn_history">View Step History</string>
+    <string name="btn_set_goal">Set Goal</string>
+    <string name="btn_reset">Reset Today</string>
+    <string name="steps_unit">steps</string>
+    <string name="km_unit">km</string>
+    <string name="kcal_unit">kcal</string>
+    <string name="sensor_not_found">Step sensor not found on this device!</string>
+    <string name="permission_denied">Permission denied. Cannot count steps.</string>
+    <string name="goal_hint">Enter step goal (e.g. 5000)</string>
+    <string name="goal_saved">Goal saved!</string>
+    <string name="reset_done">Steps reset for today.</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Step History</string>
+    <string name="no_history">No history found yet.</string>
+    <string name="btn_back">Back</string>
+</resources>

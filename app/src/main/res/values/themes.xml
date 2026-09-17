@@ -1,0 +1,10 @@
+﻿<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MAD_TODO_LIST_assignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+    </style>
+
+    <style name="Theme.MAD_TODO_LIST_assignment" parent="Base.Theme.MAD_TODO_LIST_assignment" />
+</resources>
